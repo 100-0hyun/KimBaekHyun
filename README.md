@@ -6,6 +6,8 @@
 | Education | 2011.03 ~ 2014.02 |                                                             | Whimoon High School |
 | Education | 2015.03 ~ 2019.02 | Convergence Security                                        | Kyonggi University  |
 | Army      | 2019.03 ~ 2021.06 | Reserve Officers' Training Corps 57 Communication First Lt. | 22 Division         |
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bh6176)](https://solved.ac/bh6176/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBaekHyun)](https://github.com/KimBaekHyun/github-readme-stats)
 
