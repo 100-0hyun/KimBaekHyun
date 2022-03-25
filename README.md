@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+
+
 #### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
 #### 📫 How to reach me: bh6176@gmail.com
 #### Career
