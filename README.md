@@ -2,13 +2,13 @@
 --- 
 #### ABOUT ME 😄
 #### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
-#### 🌱 I’m currently interesting on Tennis🎾
+#### 🌱 I’m currently interesting on Tennis🎾 Travel🛫
 #### 📫 How to reach me: bh6176@gmail.com
 #### Career
 | **Type**      | **Date**              | **Comments**                                                   | **Organization**        |
 |-----------|-------------------|-------------------------------------------------------------|---------------------|
-| **🎓Education** | 2011.03 ~ 2014.02 | High School                                                 | **Whimoon High School**|
-| **🎓Education** | 2015.03 ~ 2019.02 | Convergence Security                                        | **Kyonggi University**  |
+| **🎓Education** | 2011.03 ~ 2014.02 | **High School**                                                | **Whimoon High School**|
+| **🎓Education** | 2015.03 ~ 2019.02 | **Convergence Security**                                        | **Kyonggi University**  |
 | **👨‍✈️Army**      | 2019.03 ~ 2021.06 | **Reserve Officers' Training Corps 57 Communication First Lt.** | **22 Division**         |
 
 
