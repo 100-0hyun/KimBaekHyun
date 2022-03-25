@@ -1,5 +1,5 @@
-# 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
-# 📫 How to reach me: bh6176@gmail.com
+#### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
+#### 📫 How to reach me: bh6176@gmail.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bh6176)](https://solved.ac/bh6176/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBaekHyun)](https://github.com/KimBaekHyun/github-readme-stats)
