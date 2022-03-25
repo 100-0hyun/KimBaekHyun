@@ -1,11 +1,11 @@
 #### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
 #### 📫 How to reach me: bh6176@gmail.com
 #### Career
-| Type      | Date              | Comments                                                    | Organization        |
+| **Type**      | **Date**              | **Comments**                                                   | **Organization**        |
 |-----------|-------------------|-------------------------------------------------------------|---------------------|
-| Education | 2011.03 ~ 2014.02 |                                                             | Whimoon High School |
-| Education | 2015.03 ~ 2019.02 | Convergence Security                                        | Kyonggi University  |
-| Army      | 2019.03 ~ 2021.06 | Reserve Officers' Training Corps 57 Communication First Lt. | 22 Division         |
+| **🎓Education** | 2011.03 ~ 2014.02 |                                                             | **Whimoon High School**|
+| **Education** | 2015.03 ~ 2019.02 | Convergence Security                                        | **Kyonggi University**  |
+| **Army**      | 2019.03 ~ 2021.06 | **Reserve Officers' Training Corps 57 Communication First Lt.** | 22 Division         |
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bh6176)](https://solved.ac/bh6176/)
