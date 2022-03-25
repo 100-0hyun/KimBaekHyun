@@ -1,7 +1,8 @@
-[header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
-
-
+### Hi 👋, I'm BaekHyun Kim 
+--- 
+#### ABOUT ME 😄
 #### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
+#### 🌱 I’m currently interesting on Tennis🎾
 #### 📫 How to reach me: bh6176@gmail.com
 #### Career
 | **Type**      | **Date**              | **Comments**                                                   | **Organization**        |
