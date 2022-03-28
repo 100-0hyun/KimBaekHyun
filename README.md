@@ -10,7 +10,7 @@
 | **🎓Education** | 2011.03 ~ 2014.02 | **High School**                                                | **Whimoon High School**|
 | **🎓Education** | 2015.03 ~ 2019.02 | **Convergence Security**                                        | **Kyonggi University**  |
 | **👨‍✈️ Army**      | 2019.03 ~ 2021.06 | **Reserve Officers' Training Corps 57 Communication First Lt.** | **22 Division**         |
-| **💻Education** | 2019.03 ~ 2021.06 | **Cloud Convergence Security**                                  | **SK_Shieldus_Rookies**  |
+| **💻Education** | 2021.12 ~ 2022.06 | **Cloud Convergence Security**                                  | **SK_Shieldus_Rookies**  |
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBaekHyun)](https://github.com/KimBaekHyun/github-readme-stats)
