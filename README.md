@@ -3,7 +3,7 @@
 --- 
 #### ABOUT ME 😄
 #### 🔭 I’m currently studying on SK_Shieldus_Rookies (2021.12.29 ~ 2022.06.23)
-#### 🌱 I’m currently interesting on Tennis🎾 Travel🛫
+#### 🌱 I’m currently interesting on Tennis🎾 [Travel](Travel/README.md)🛫
 #### 📫 How to reach me: bh6176@gmail.com
 #### Career
 | **Type**      | **Date**              | **Comments**                                                   | **Organization**        |
